@@ -10,7 +10,7 @@ RevOps Data Analyst | Master of Business Administration in Data Science
 ---
 
 ### 📌 Major Projects & Thesis
-* 📈 **[Master's Thesis Project](https://github.com/dbonjd007/demand-forecasting-mba-project)** – Time-series forecasting model and Thesis
+* 📈 **[Master's Thesis Project](https://github.com/dbonjd007/demand-forecasting-mba-project)** – Demand Forecasting Using Different ML Model for Predictive Forecasting Thesis
 * 🚀 **[ML Deployment](https://github.com/dbonjd007/ml-deployment)** – End-to-end machine learning model deployment pipelines.
 * 🤖 **[Agentic AI & LLMs](https://github.com/dbonjd007/agentic-ai-projects)** – Multi-agent systems, Colab labs, and Groq API workflows.
 * 🧪 **[Data Science Core Projects](https://github.com/dbonjd007/ds-core-projects)** – Practical labs and implementations covering EDA, ML, NLP, and Forecasting.
