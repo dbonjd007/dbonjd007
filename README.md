@@ -1,5 +1,5 @@
 # Hi, I'm Daniel 👋
-RevOps Data Analyst | Master of Business Administration in Data Science
+RevOps & Data Analyst | Master of Business Administration in Data Science
 
 ### 🧠 Core Competencies & Technical Stack
 
