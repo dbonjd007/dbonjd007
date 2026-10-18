@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-### RevOps Analyst & Data Specialist | Master of Business Administration in Data Science
+### Welcome to my Personal Project GitHub Repo
 
 ---
 
