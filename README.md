@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-### RevOps & Data Analyst | Master of Business Administration in Data Science
+### RevOps Analyst & Data Specialist | Master of Business Administration in Data Science
 
 ---
 
